@@ -1,6 +1,6 @@
 ---
 
-This is a simple PyTorch implementation of **Llama2**, designed for integration with **VQGAN** and **DiT** models.
+This is a simple PyTorch implementation of **Llama2**, designed for **VQGAN** and **DiT** models.
 
 ---
 
