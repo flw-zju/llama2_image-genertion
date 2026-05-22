@@ -19,6 +19,8 @@ This is a simple PyTorch implementation of **Llama2**, designed for **VQGAN** an
 - Removed **KV-cache**; added **rectified flow timestep**.
 - Replaced 1D RoPE with **2D RoPE**.
 - Trained on the **Celeba-HQ dataset** (256×256 resolution) for unconditional generation.
+### Generated Samples
+![DIT Samples](assets/dit_samples.png)
 
 ### Pretrained Model Weights (OneDrive)
 You can download the pretrained model files from OneDrive:
