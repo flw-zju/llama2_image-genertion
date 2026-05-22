@@ -47,5 +47,7 @@ This is a simple PyTorch implementation of **Llama2**, designed for integration 
 - Replaced 1D RoPE with **2D RoPE**.
 - Trained on the **Celeba-HQ dataset** (256×256 resolution) for unconditional generation.
 
-### Generated Samples
-https://1drv.ms/f/c/2c0f1036b31b3ed6/IgCuByrJxeCsRJeZe_6O7uQ2ASJBO9cKHGGa_BGelFJnQNQ?e=27Eqr0
+### Pretrained Model Weights (OneDrive)
+You can download the pretrained model files from OneDrive:
+[Download]([https://1drv.ms/u/s!YOUR_VQGAN_ID?e=download](https://1drv.ms/f/c/2c0f1036b31b3ed6/IgCuByrJxeCsRJeZe_6O7uQ2ATF2ca7i7iK9bjrNYddL6Os?e=bK3p2b))
+
