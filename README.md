@@ -49,5 +49,5 @@ This is a simple PyTorch implementation of **Llama2**, designed for integration 
 
 ### Pretrained Model Weights (OneDrive)
 You can download the pretrained model files from OneDrive:
-[Download](https://1drv.ms/f/c/2c0f1036b31b3ed6/IgCuByrJxeCsRJeZe_6O7uQ2ATF2ca7i7iK9bjrNYddL6Os?e=bK3p2b))
+[Download](https://1drv.ms/f/c/2c0f1036b31b3ed6/IgCuByrJxeCsRJeZe_6O7uQ2ATF2ca7i7iK9bjrNYddL6Os?e=bK3p2b)
 
