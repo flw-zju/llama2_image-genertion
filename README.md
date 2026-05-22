@@ -10,7 +10,7 @@ This is a simple PyTorch implementation of **Llama2**, designed for integration 
 - Trained on the **AFHQ dataset** (128×128 resolution).
 
 ### Generated Samples
-![VQGAN Samples](tmp/872315318274_docxword_media_image1.png)
+![VQGAN Samples](assets/vqgan_samples.png)
 
 ---
 
@@ -21,4 +21,4 @@ This is a simple PyTorch implementation of **Llama2**, designed for integration 
 - Trained on the **Celeba-HQ dataset** (256×256 resolution) for unconditional generation.
 
 ### Generated Samples
-![DiT Samples](tmp/872315318274_docxword_media_image2.png)
+![DiT Samples](assets/dit_samples.png)
